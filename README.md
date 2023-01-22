@@ -1,7 +1,7 @@
 # Things2Do
 Minimize time spent planning and maximize having fun with Things2Do!
 
-## Winner at DeltaHacks9!
+## 🏆 Winner at DeltaHacks9! 🏆
 Devpost: https://devpost.com/software/things2do
 
 ## Inspiration
